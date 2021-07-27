@@ -54,7 +54,7 @@ _Capítulo 12_
 ![Ejer 9-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/9.png)            
 ![Ejer 11-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/11.png)          
 ![Ejer 13-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/13.png)            
-![Ejer 15-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/15-C12.png)            
+![Ejer 15-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/15.png)            
 ![Ejer 17-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/17.png)            
 ![Ejer 19-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/19.png)            
 ![Ejer 21-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/21.png)             
