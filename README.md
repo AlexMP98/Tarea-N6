@@ -12,7 +12,9 @@ _Objetivos Específicos_
 
 **2.MARCO TEÓRICO**
 
-_Capítulo 11_
+_Capítulo 11_    
+![Mapa11](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/MapaCap11.png)       
+![Mapa11](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/MapaCap11_2.png)    
 
 
 _Capítulo 12_
@@ -46,7 +48,20 @@ _Capítulo 12_
 
 ![Ejer 3-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Ejer%203-C12.png)
 
-![Ejer 5-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Ejer%205-C12.png)
+![Ejer 5-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Ejer%205-C12.png)    
+
+![Ejer 7-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/7.png)       
+![Ejer 9-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/9.png)            
+![Ejer 11-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/11.png)          
+![Ejer 13-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/13.png)            
+![Ejer 15-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/15-C12.png)            
+![Ejer 17-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/17.png)            
+![Ejer 19-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/19.png)            
+![Ejer 21-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/21.png)             
+![Ejer 23-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/23.png)        
+![Ejer 27-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/27.png)      
+![Ejer 29-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/29.png)  
+
 
 
 **4. VIDEO**
