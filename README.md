@@ -19,6 +19,16 @@ _Capítulo 11_
 
 _Capítulo 12_
 
+![Mapa 1-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Fun.C%20Tarea%206%20resumen%20cap%2012%20m1.jpg)
+
+![Mapa 2-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Fun.C%20Tarea%206%20resumen%20cap%2012%20m2.jpg)
+
+![Mapa 3-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Fun.C%20Tarea%206%20resumen%20cap%2012%20m3.jpg)
+
+![Mapa 4-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Fun.C%20Tarea%206%20resumen%20cap%2012%20m4.jpg)
+
+![Mapa 5-C12](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Fun.C%20Tarea%206%20resumen%20cap%2012%20m5.jpg)
+
 ![mt1](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt1%20t6.PNG)
 
 ![mt2](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt2%20t6.PNG)
