@@ -19,6 +19,20 @@ _Capítulo 11_
 
 _Capítulo 12_
 
+![mt1](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt1%20t6.PNG)
+
+![mt2](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt2%20t6.PNG)
+
+![mt3](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt3%20t6.PNG)
+
+![mt4](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt4%20t6.PNG)
+
+![mt5](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt5%20t6.PNG)
+
+![mt6](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt6%20t6.PNG)
+
+![mt7](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/mt7%20t6.PNG)
+
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 _Capítulo 11_
