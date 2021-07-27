@@ -47,6 +47,40 @@ _Capítulo 12_
 
 _Capítulo 11_
 
+![e1](https://github.com/AlexMP98/Tarea-N6/blob/main/1e.PNG)
+
+![e2](https://github.com/AlexMP98/Tarea-N6/blob/main/2e.PNG)
+
+![e3](https://github.com/AlexMP98/Tarea-N6/blob/main/3e.PNG)
+
+![e4](https://github.com/AlexMP98/Tarea-N6/blob/main/4e.PNG)
+
+![e5](https://github.com/AlexMP98/Tarea-N6/blob/main/5e.PNG)
+
+![e6](https://github.com/AlexMP98/Tarea-N6/blob/main/6e.PNG)
+
+![e7](https://github.com/AlexMP98/Tarea-N6/blob/main/7e.PNG)
+
+![e8](https://github.com/AlexMP98/Tarea-N6/blob/main/8e.PNG)
+
+![e9](https://github.com/AlexMP98/Tarea-N6/blob/main/9e.PNG)
+
+![e10](https://github.com/AlexMP98/Tarea-N6/blob/main/10e.PNG)
+
+![e11](https://github.com/AlexMP98/Tarea-N6/blob/main/11e.PNG)
+
+![e12](https://github.com/AlexMP98/Tarea-N6/blob/main/12e.PNG)
+
+![e13](https://github.com/AlexMP98/Tarea-N6/blob/main/13e.PNG)
+
+![e14](https://github.com/AlexMP98/Tarea-N6/blob/main/14e.PNG)
+
+![e15](https://github.com/AlexMP98/Tarea-N6/blob/main/15e.PNG)
+
+![e16](https://github.com/AlexMP98/Tarea-N6/blob/main/16e.PNG)
+
+![e17](https://github.com/AlexMP98/Tarea-N6/blob/main/17e.PNG)
+
 ![Ejer 27-C11](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Ejer%2027-C11.png)
 
 ![Ejer 29-C11](https://github.com/AlexMP98/Tarea-N6/blob/main/Imagenes/Ejer%2029-C11.png)
