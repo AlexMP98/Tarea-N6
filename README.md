@@ -6,9 +6,15 @@
 
 _Objetivo General_
 
+-Entender los diferentes estados de un capacitor en circuitos RC asi como sus resoluciones en diferentes circuitos tiendo en cuenta las constante de tiempo.
 
 _Objetivos Específicos_
 
+-Describir como funciona la descarga y carga de circuitos RC simples.
+
+-Determinar los diferentes voltajes y corrientes en circuitos RC simples durante la carga y descarga teniendo en cuenta el tiempo.
+
+-Identificar cuando un circuito esta en estado estable o corcircuitado para poder resolverlo.
 
 **2.MARCO TEÓRICO**
 
@@ -126,5 +132,13 @@ Link de video: https://youtu.be/2hdqlMdc4T8
 
 **5. CONCLUSIONES**
 
+-Concluimos que los capacitores toman tiempo en cargarse, sin embargo , los voltajes y corrientes toman tiempo para alcanzar los valores esperados segun la capacitancia del circuito y la resistencia con la cual se carga.
+
+-Se comprendio que para cambiar el voltaje de un capacitor se debe tomar un tiempo debido al movimiento de millones de electrones , debido a esto, el voltaje del capacitor no puede cambiar instantaneamente, es decir no puede alcanzar otro valor abruptamente.
+
+-El voltaje del capacitor debe ser continuo en todo momento, sin embargo la corriente es discontinua por lo que salta abruptamente.
+
+
 **6. BIBLIOGRAFÍA**
 
+H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning.
